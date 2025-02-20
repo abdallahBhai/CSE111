@@ -23,6 +23,6 @@ public class task2 {
                 
             }
         }
-        System.out.println(primeNum);
+        System.out.println("There are "+primeNum+" numbers between "+num1+" and "+num2);
     }
 }
